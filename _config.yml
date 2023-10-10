@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Shwetha Raghuraman"
   avatar           : "profile.jpg"
-  bio              : "PhD Candidate in Economics | Education, Labor, & IO"
+  bio              : "PhD Candidate in Economics\nEducation, Labor, & IO"
   location         : #"Location"
-  employer         : "University of Michigan, Ann Arbor"
+  employer         : "University of Michigan"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            :
