@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in Economics at the University of Michigan, Ann Arbor. I am an applied microeconomist with interests in education and labor.  I use a diverse set of empirical methodologies in my research, including experimental and quasi-experimental methods to evaluate the impacts of education policies, and structural methods from industrial organization to examine the role of education market structure in educational choices. I am on the 2023-2024 job market.
+I am an applied microeconomist on the 2023-2024 job market with interests in education, labor, and industrial organization. I research how students decide whether and where to attend school, and how this differs by race and socioeconomic status. I use experimental, quasi-experimental, and structural methods to study the implications of different choice environments for these decisions, and how these individual decisions aggregate and form the patterns of segregation and inequality observed in the US education system.
