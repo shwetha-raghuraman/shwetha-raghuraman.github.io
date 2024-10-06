@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Shwetha Raghuraman"
   avatar           : "profile.jpg"
-  bio              : "Postdoc at Aarhus BSS"
+  bio              : "Postdoc at Aarhus University"
   location         : #"Location"
   employer         : "Aarhus, Denmark"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : sraghura@umich.edu
+  email            : shwetha@econ.au.dk
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
