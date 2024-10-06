@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I am an applied microeconomist with interests in education, labor, and industrial organization. I research how students decide whether and where to attend school, and how this differs by race and socioeconomic status. I use experimental, quasi-experimental, and structural methods to study the implications of different choice environments for these decisions, and how these individual decisions aggregate and form the patterns of segregation and inequality observed in the US education system.
+I am an applied microeconomist studying education and inequality. My research spans topics such as school choice, multidimensional impacts of schools on students, free tuition program design, and higher education finance. I experimental, quasi-experimental, and structural methods in my research.
 
-This fall, I will be a postdoctoral fellow at the Department of Economics and Business Economics, Aarhus University.
+I am currently a postdoctoral fellow in the Department of Economics and Business Economics at Aarhus University and a research fellow at TrygFonden’s Centre for Child Research. 
