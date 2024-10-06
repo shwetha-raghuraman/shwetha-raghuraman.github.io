@@ -5,6 +5,11 @@ permalink: /teaching/
 author_profile: true
 ---
 
+## Lecturer, Aarhus University
+
+***Econometrics of Policy Evaluation***, Undergraduate Course (Fall 2024)\
+***Industrial Organisation and Strategy***, Undergraduate Course (Fall 2024)
+
 ## Graduate Student Instructor, University of Michigan
 
 ***ECON 398: Strategy***, Undergraduate Course (Winter 2019, Fall 2019, Winter 2024)\
