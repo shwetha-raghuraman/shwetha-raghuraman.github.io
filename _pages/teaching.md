@@ -5,9 +5,12 @@ permalink: /teaching/
 author_profile: true
 ---
 
+## Supervision, Aarhus University
+***Master's Thesis Supervisor*** (Spring 2025)
+
 ## Lecturer, Aarhus University
 
-***Econometrics of Policy Evaluation***, Undergraduate Course (Fall 2024)\
+***Econometrics of Policy Evaluation***, Undergraduate Course (Fall 2025, Fall 2024)\
 ***Industrial Organisation and Strategy***, Undergraduate Course (Fall 2024)
 
 ## Graduate Student Instructor, University of Michigan
