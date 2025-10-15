@@ -20,7 +20,7 @@ Proposed "free college" policies vary widely in design. The simplest set tuition
 
 Declining state investment in public higher education may worsen income and racial inequality if low-income and minority students rely more heavily on in-state options and are less mobile across colleges. In this paper, we study the distributional implications of in- and out-of-state investment in public higher education across individuals and geographies. We first use policy variation in Michigan together with state administrative data to test whether changes in public investment meaningfully affect in-state and out-of-state college enrollment gaps by race and socioeconomic status. We then estimate a structural model of college choice to understand the extent to which differences in mobility and other preferences contribute to potentially differential enrollment responses to public investment, and account for these cross-state and cross-college enrollment responses in measuring the incidence of state higher education investment.
 
-***Multidimensional Impacts of High Schools on Students*** (with Maria Knoth Humlum and Helena Skyt Nielsen)
+***Multidimensional Impacts of High School Teachers on Students*** (with Maria Knoth Humlum and Helena Skyt Nielsen)
 
 [certainty]: https://www.aeaweb.org/articles?id=10.1257/aeri.20220094
 [jmp]: ../files/shwetha_raghuraman_jmp.pdf
