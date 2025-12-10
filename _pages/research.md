@@ -18,6 +18,8 @@ Proposed "free college" policies vary widely in design. The simplest set tuition
 ## Works in progress
 ***The Distributional Effects of State Investments in Less-Selective Public Colleges*** (with John Bound, Soyoung Han, and Andrew Simon)
 
+We study the effects of targeted state investments in less-selective public universities. We consider a performance-based funding reform in Michigan that steeply increased appropriations for non-research-intensive institutions compared to others, while limiting tuition growth. Using administrative data linking all Michigan public high-school graduates to their post-secondary outcomes, we implement a difference-in-differences design comparing enrollment and graduation across institution types before and after the reform. The policy raised the share of high school graduates who enroll in non-R1 universities by about 0.2 percentage points (∼ 2300 students) per year and increased graduation by roughtly half of this amount. We find that the effects are concentrated among higher-income and non-URM students. Finally, we use university level data from IPEDS and student survey data from the NCES to consider how demand and supply side responses lead to these patterns across students.
+
 ***Multidimensional Impacts of High School Teachers on Students*** (with Maria Knoth Humlum and Helena Skyt Nielsen)
 
 [certainty]: https://www.aeaweb.org/articles?id=10.1257/aeri.20220094
