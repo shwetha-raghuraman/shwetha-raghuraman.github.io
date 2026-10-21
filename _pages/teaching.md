@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Supervision, Aarhus University
-***Master's Thesis Supervisor*** (Spring 2025)
+***Master's Thesis Supervisor*** (Spring 2025, Spring 2026)
 
 ## Lecturer, Aarhus University
 
